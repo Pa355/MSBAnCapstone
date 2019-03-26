@@ -8,17 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : ahgraber github home
-author :
-  name : Alex Graber
-  email : ahgraber@gmail.com
-  github : ahgraber
-  twitter : namnnumbr
-  linkedin: ahgraber
+title : pa355 github home
+author : 
+  name : Pragati Awasthi
+  email : awasthipragati20@gmail.com
+  github : pa355
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://ahgraber.github.io
+production_url : https://pa355.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
